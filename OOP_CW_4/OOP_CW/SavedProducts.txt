@@ -1,0 +1,5 @@
+1500|tanky|45|100.0|36|white|clothing
+200|lk|5|698.0|s|red|clothing
+3000|ty|4|600.0|24|blue|clothing
+500|tan|4|850.0|dell|12|electronic
+600|Queety|8|120.0|Asus|8|electronic
